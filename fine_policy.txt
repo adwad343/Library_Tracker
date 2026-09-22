@@ -1,1 +1,2 @@
 This the policy for fine when book is not returned before 5 days 
+fine is 300 
