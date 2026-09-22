@@ -1,3 +1,4 @@
 This the policy for fine when book is not returned before 5 days 
 fine is 300 
 fine 400 for 5 days delay 
+fine is 40 per day for further dela 
